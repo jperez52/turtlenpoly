@@ -10,4 +10,4 @@ Follow the following instructions to execute the node.
   6) run ros ('roscore') and turtlesim ('rosrun turtlesim turtlesim_node') in separate terminal windows
   7) execute the node using 'rosrun turtlenpoly2 turtlenpoly2'
  
-Note: turtlenpoly2 is latest version. Files in 'turtlenpoly' (without the 2) can be diregarded.
+Note: turtlenpoly2 is latest version. Files in 'turtlenpoly' (without the 2) can be disregarded.
